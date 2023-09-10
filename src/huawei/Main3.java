@@ -18,7 +18,7 @@ public class Main3 {
             int n = Integer.parseInt(in.nextLine());
 
 
-            while(n>0) {
+            while (n > 0) {
                 String[] s1 = in.nextLine().split(" ");//父
                 ArrayList<String> arrayList = new ArrayList<>();
                 if (hashMap.containsKey(s1[1])) {
@@ -61,5 +61,4 @@ public class Main3 {
             search(hashMap, tmp, ret);
         }
     }
-
 }
