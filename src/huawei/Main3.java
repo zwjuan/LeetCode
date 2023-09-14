@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * 数状查询
+ * 机考3：数状查询
  */
 public class Main3 {
     public static void main(String[] args) {

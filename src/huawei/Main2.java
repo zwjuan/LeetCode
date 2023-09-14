@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 /**
- * 组成的最大数
+ * 机考2：组成的最大数
  *
  * 对相邻两个数进行排序
  */

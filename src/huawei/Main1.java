@@ -3,7 +3,7 @@ package huawei;
 import java.util.Scanner;
 
 /**
- * 判断字符串子序列
+ * 机考1：判断字符串子序列
  */
 public class Main1 {
     public static void main(String[] args) {
