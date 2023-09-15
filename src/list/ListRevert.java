@@ -41,4 +41,3 @@ public class ListRevert {
         return newHead.next;
     }
 }
-
